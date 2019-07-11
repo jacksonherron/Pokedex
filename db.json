@@ -1,0 +1,31 @@
+{
+    "Pokemon": {
+        "5d263ab222f63cdc9bad57f2": {
+            "name": "Bulbasaur"
+        }
+    },
+    "Trainer": {
+        "5d277857a4e5e6036a5d9d69": {
+            "pokemon": ["5d277784c8fe2e02bf1da9a7", "5d263ab222f63cdc9bad57f2"],
+            "badges": [
+                { 
+                    "name": "Boulder Badge",
+                    "town": "Pewter City",
+                    "gymLeader": "Brock",
+                    "color": "Gray"
+                },
+                {
+                    "name": "Cascade Badge",
+                    "town": "Cerulean City",
+                    "gymLeader": "Misty",
+                    "color": "Blue"
+                }
+            
+            ],
+            "name": "Ash Ketchum",
+            "age": 25,
+            "hometown": "Pallet Town",
+            "__v": 0
+        }
+    }
+}
